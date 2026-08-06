@@ -1,0 +1,32 @@
+# Private keys and secrets
+*.key
+*.pem
+*.secret
+.env
+*.env
+.env.*
+
+# Credentials
+*.smbcreds
+credentials*
+
+# Script output and logs
+*.log
+output/
+backups/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+.venv/
